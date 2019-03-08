@@ -1,0 +1,174 @@
+baseurl = "https://dborder.netlify.com/"
+title = "dbordeR" 
+theme = "hugo-universal-theme"
+languageCode = "en-us"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "4insight"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = " "
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About Us"
+    url  = "/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 3
+
+[[menu.main]]
+    name = "Podcast"
+    identifier = "Podcast"
+    url  = "/Podcast/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 5
+    
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "GitHub"
+    url = ""
+    pre = "<i class='fa fa-2x fa-github'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Facebook"
+    url = "http://facebook.com"
+    pre = "<i class='fa fa-2x fa-facebook'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Twitter"
+    url = "http://twitter.com"
+    pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "Email"
+    url = "jlmanzanaresrivera@gmal.com"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "DevCows"
+    defaultKeywords = ["HE","WRE","IM","DIA","SE","Tech"]
+    defaultDescription = "Site template made by devcows using hugo"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = ""
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "marsala"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "jlmanzanaresrivera@gmail.com"
+
+    about_us = "<p>dbordeR. Es una iniciativa sin fines de lucro dedicada a la difusión de resultados de investigación aplicada con orientación al análisis de datos.</p>"
+    copyright = "Copyright (c) 2018 - 2019, dbordeR; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/logo.png"
+    address = """<p><strong>dbordeR</strong>
+        <br>Av. Álvaro Obregón
+        <br>No. 68, Col. Fundo Legal
+        <br>Nogales, Sonora
+        <br>CP 84030
+        <br>
+        <strong>Mexico</strong>
+      </p>
+      """
+    latitude = "-12.043333"
+    longitude = "-77.028333"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """<p class="hidden-sm hidden-xs">Contact us on +631 107 89 06 or jlmanzanaresrivera@gmail.com.</p>
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
+      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+      </p>
+      """
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = false
+    tags = false
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Recent papers"
+    subtitle = "Peer reviwed publications from our current production"
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-ravelry"
+    title = "Projects"
+    subtitle = "Analyzing data, providing answers, advancing knowledge"
+    link_url = ""
+    link_text = "Research Team"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Journals"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = true
+    title = "From our blog"
+    subtitle = "A platform for debate and analysis of research results done at 4insight.R. It allows a fast dissemination of information in a flexible format."

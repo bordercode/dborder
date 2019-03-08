@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>He on dbordeR</title>
+    <link>/tags/he/</link>
+    <description>Recent content in He on dbordeR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/he/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Determinants of health</title>
+      <link>/blog/2015/10/02/sde/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/2015/10/02/sde/</guid>
+      <description>Esperanza de vida y condiciones económicas en América Latina en medio siglo. Diabetes y la epidemida de padecimientos crónicos degenerativos. Además un padecimiento considerado como de alto impacto financiero para el sector salud Mexicano en el corto plazo. The evolution of type II diabetes as a death cause in Mexico increased by 76% during the period between 1998-2013, while the over all death causes experienced a 18,3% increase in same period.</description>
+    </item>
+    
+  </channel>
+</rss>

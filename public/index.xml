@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dbordeR</title>
+    <link>/</link>
+    <description>Recent content on dbordeR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Text mining: A quantitative technique as a strategy  to access reliable qualitative data</title>
+      <link>/blog/2015/10/10/text-mining/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/2015/10/10/text-mining/</guid>
+      <description>Given the massive information inlfux available currently in our society thanks to the use of mobile technologies. An opportunity exist to harvest data using innovative techniques that allows to get access to peoples opinions and preferences. This is an approach taht combines quantitative analysis tools with qualitative base theoretic frameworks. Is definetely gaining importance, also by offering two major advantages over other metholologies to access information about peoples preferences.
+Bothe are releted to money, in differnt flavors however.</description>
+    </item>
+    
+    <item>
+      <title>Social Determinants of health</title>
+      <link>/blog/2015/10/02/sde/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/2015/10/02/sde/</guid>
+      <description>Esperanza de vida y condiciones económicas en América Latina en medio siglo. Diabetes y la epidemida de padecimientos crónicos degenerativos. Además un padecimiento considerado como de alto impacto financiero para el sector salud Mexicano en el corto plazo. The evolution of type II diabetes as a death cause in Mexico increased by 76% during the period between 1998-2013, while the over all death causes experienced a 18,3% increase in same period.</description>
+    </item>
+    
+    <item>
+      <title>Internatinal Migration and Water Scarcity</title>
+      <link>/blog/2015/09/17/internatinal-migration/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/2015/09/17/internatinal-migration/</guid>
+      <description>Historically, causes of international migration have been a dominant research area on the international migration research agenda; socioeconomic determinants such as income and poverty conditions have been extensively documented as they represent common motives for the movement of people across borders around the world. However, until recently, less attention has been directed to environmental determinants of international migration. Yet, as migration patterns themselves have become more complex, the environmental dimension has been gaining attention after the recognition of the possible effects of changing climate conditions and the increasing possibility of experiencing extreme weather events (IOM, 2009).</description>
+    </item>
+    
+    <item>
+      <title>Remote sensing images to detect landscape changes</title>
+      <link>/blog/2015/08/03/remote-sense/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>/blog/2015/08/03/remote-sense/</guid>
+      <description>Remote sensing as a reliable tool to access high quality visual data.</description>
+    </item>
+    
+    <item>
+      <title>Underground Water Use</title>
+      <link>/blog/2015/06/24/undergroundwater/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2015/06/24/undergroundwater/</guid>
+      <description>Introduction Just beggining to understand.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>¿Qué es dbordeR? dbordeR es una inciativa sin fines de lucro creada por José Luis Manzanares Rivera dedicada a la difusión de resultados de investigación aplicada con orientación al análisis de datos y pensada como una plataforma para generar redes de investigación a partir de alianzas estratégicas con investigadores de primer nivel en instituciones académicas especializadas.
+La implementación se realiza desde México y se enfoca en el estudio de casos con enfasis en la región de Latinoamérica.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>We are here to help you We like to built networks. Let us know if there is a particular database that you may be interested in analizing.
+Data-analysis-insight-advance knowledge.
+Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>/podcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

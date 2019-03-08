@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on dbordeR</title>
+    <link>/categories/programming/</link>
+    <description>Recent content in Programming on dbordeR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Determinants of health</title>
+      <link>/blog/2015/10/02/sde/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/2015/10/02/sde/</guid>
+      <description>Esperanza de vida y condiciones económicas en América Latina en medio siglo. Diabetes y la epidemida de padecimientos crónicos degenerativos. Además un padecimiento considerado como de alto impacto financiero para el sector salud Mexicano en el corto plazo. The evolution of type II diabetes as a death cause in Mexico increased by 76% during the period between 1998-2013, while the over all death causes experienced a 18,3% increase in same period.</description>
+    </item>
+    
+    <item>
+      <title>Internatinal Migration and Water Scarcity</title>
+      <link>/blog/2015/09/17/internatinal-migration/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/2015/09/17/internatinal-migration/</guid>
+      <description>Historically, causes of international migration have been a dominant research area on the international migration research agenda; socioeconomic determinants such as income and poverty conditions have been extensively documented as they represent common motives for the movement of people across borders around the world. However, until recently, less attention has been directed to environmental determinants of international migration. Yet, as migration patterns themselves have become more complex, the environmental dimension has been gaining attention after the recognition of the possible effects of changing climate conditions and the increasing possibility of experiencing extreme weather events (IOM, 2009).</description>
+    </item>
+    
+  </channel>
+</rss>

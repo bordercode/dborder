@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pseudo on dbordeR</title>
+    <link>/categories/pseudo/</link>
+    <description>Recent content in Pseudo on dbordeR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/pseudo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remote sensing images to detect landscape changes</title>
+      <link>/blog/2015/08/03/remote-sense/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>/blog/2015/08/03/remote-sense/</guid>
+      <description>Remote sensing as a reliable tool to access high quality visual data.</description>
+    </item>
+    
+  </channel>
+</rss>

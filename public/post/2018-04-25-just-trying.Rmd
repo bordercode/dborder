@@ -1,0 +1,12 @@
+---
+title: Just trying
+author: jlmr
+date: '2018-04-25'
+slug: just-trying
+categories:
+  - R
+tags:
+  - plot
+---
+
+ ¿Que pasa si intento este worklow?

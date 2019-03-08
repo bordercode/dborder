@@ -1,0 +1,8 @@
+weight: 4
+title: "Research"
+description: >
+  <ul class="list-style-none">
+    <li>Generating Applied research based on data analysis.</li>
+    <li>Open source oriented research. Clear reproductible analysis</li>
+  </ul>
+image: "img/carousel/template-easy-code.png"
