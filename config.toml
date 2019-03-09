@@ -157,7 +157,7 @@ paginate = 10
     icon = "fa fa-ravelry"
     title = "Projects"
     subtitle = "Analyzing data, providing answers, advancing knowledge"
-    link_url = ""
+    link_url = "https://joseluismanzanaresrivera.github.io/Profile/index.html"
     link_text = "Research Team"
 
 [params.clients]
