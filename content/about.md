@@ -8,7 +8,7 @@ keywords = ["what is it"]
   
 ### ¿Qué es dbordeR?
   
-  **dbordeR** es una inciativa  sin fines de lucro creada por  [José Luis Manzanares Rivera](https://www.colef.mx/posgrado/profesores/borrador-automatico-31/)  dedicada a la difusión de resultados de investigación aplicada con orientación al análisis de datos y pensada como una plataforma para generar redes de investigación a partir de alianzas estratégicas con investigadores de primer nivel en instituciones académicas especializadas.   
+  **dbordeR** es una inciativa sin fines de lucro creada por  [José Luis Manzanares Rivera](https://www.colef.mx/posgrado/profesores/borrador-automatico-31/)  dedicada a la difusión de resultados de investigación aplicada con orientación al análisis de datos y pensada como una plataforma para generar redes de investigación a partir de alianzas estratégicas con investigadores de primer nivel en instituciones académicas especializadas.   
   
   
   
