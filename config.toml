@@ -22,7 +22,7 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "About dborder project"
+    name = "About"
     url  = "/about/"
     weight = 2
 
@@ -75,7 +75,7 @@ paginate = 10
     defaultDescription = "Site template made by devcows using hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = ""
+    googleMapsApiKey = "AIzaSyBDaeWicvigtP9xPv919E-RNoxfvC-Hqik"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "marsala"
@@ -96,14 +96,14 @@ paginate = 10
     email = "jlmanzanaresrivera@gmail.com"
 
     about_us = "<p>dbordeR. Es una iniciativa sin fines de lucro dedicada a la difusión de resultados de investigación aplicada con orientación al análisis de datos.</p>"
-    copyright = "Copyright (c) 2018 - 2019, dbordeR; all rights reserved."
+    copyright = "Copyright (c) 2020, dbordeR; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
     address = """<p><strong>dbordeR</strong>
-        <br>Av. Av. Reforma
+        <br>Av. Reforma
         <br>No. Centro Corporativo Norte,Col. del Rosario
         <br>Nogales, Sonora
         <br>CP 84020
@@ -120,7 +120,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +449 107 89 06 or jlmanzanaresrivera@gmail.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact me on +449 107 89 06 or jlmanzanaresrivera@gmail.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
@@ -136,7 +136,7 @@ paginate = 10
     enable = true
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
 
 [params.features]
     enable = true
