@@ -22,7 +22,7 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "About Us"
+    name = "About dborder project"
     url  = "/about/"
     weight = 2
 
@@ -103,10 +103,10 @@ paginate = 10
 
     logo = "img/logo.png"
     address = """<p><strong>dbordeR</strong>
-        <br>Av. Álvaro Obregón
-        <br>No. 68, Col. Fundo Legal
+        <br>Av. Av. Reforma
+        <br>No. Centro Corporativo Norte,Col. del Rosario
         <br>Nogales, Sonora
-        <br>CP 84030
+        <br>CP 84020
         <br>
         <strong>Mexico</strong>
       </p>
