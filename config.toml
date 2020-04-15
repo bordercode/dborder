@@ -53,7 +53,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "http://facebook.com"
+    url = " "
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
@@ -95,16 +95,16 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "jlmanzanaresrivera@gmail.com"
 
-    about_us = "<p>dbordeR. Es una iniciativa sin fines de lucro dedicada a la difusión de resultados de investigación aplicada con orientación al análisis de datos.</p>"
+    about_dborder = "<p>. Es una iniciativa de colaboración sin fines de lucro dedicada a la difusión de resultados de investigación aplicada con orientación al análisis de datos. Colef Nogales</p>"
     copyright = "Copyright (c) 2020, dbordeR; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>dbordeR</strong>
+    address = """<p><strong>Colef Nogales</strong>
         <br>Av. Reforma
-        <br>No. Centro Corporativo Norte,Col. del Rosario
+        <br>Centro Corporativo Norte,Col. del Rosario
         <br>Nogales, Sonora
         <br>CP 84020
         <br>
@@ -120,7 +120,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact me on +449 107 89 06 or jlmanzanaresrivera@gmail.com.</p>
+    text = """<p class="hidden-sm hidden-xs">El Colegio de la Forntera Norte, Sede Nogales.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
