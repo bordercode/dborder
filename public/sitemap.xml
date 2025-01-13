@@ -1,112 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/blog/</loc>
+    <loc>https://dborder.netlify.com/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/categories/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/lorem/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/tags/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tech/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/tags/tech/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/10/10/text-mining/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/blog/2015/10/10/text-mining/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/he/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/tags/he/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/programming/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/se/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/tags/se/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/10/02/sde/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/blog/2015/10/02/sde/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/go/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/09/17/internatinal-migration/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/blog/2015/09/17/internatinal-migration/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dia/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/tags/dia/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/pseudo/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/08/03/remote-sense/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/blog/2015/08/03/remote-sense/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/starting/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/theme/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/tags/theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/06/24/undergroundwater/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/blog/2015/06/24/undergroundwater/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>https://dborder.netlify.com/about/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/contact/</loc>
+  </url><url>
+    <loc>https://dborder.netlify.com/podcast/</loc>
   </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/podcast/</loc>
-  </url>
-  
 </urlset>
