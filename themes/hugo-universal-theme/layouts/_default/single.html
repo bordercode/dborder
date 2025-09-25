@@ -31,10 +31,9 @@
                         </div>
                         <!-- /#post-content -->
                         {{ with site.Config.Services.Disqus.Shortname }}
-                        <div id="comments">
-                            {{ template "_internal/disqus.html" $ }}
-                        </div>
-                        {{ end }}
+  {{ template "_internal/disqus.html" $ }}
+{{ end }}
+
 
                     </div>
                     <!-- /#blog-post -->

@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>theme on dbordeR</title>
-    <link>/tags/theme/</link>
-    <description>Recent content in theme on dbordeR</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Theme on dbordeR</title>
+    <link>http://localhost:4321/tags/theme/</link>
+    <description>Recent content in Theme on dbordeR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
-    
-	<atom:link href="/tags/theme/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:4321/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Underground Water Use</title>
-      <link>/blog/2015/06/24/undergroundwater/</link>
+      <link>http://localhost:4321/blog/2015/06/24/undergroundwater/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>/blog/2015/06/24/undergroundwater/</guid>
-      <description>Introduction Just beggining to understand.</description>
+      <guid>http://localhost:4321/blog/2015/06/24/undergroundwater/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Just beggining to understand.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
