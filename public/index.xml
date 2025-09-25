@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dbordeR</title>
-    <link>https://dborder.netlify.com/</link>
+    <link>http://localhost:5163/</link>
     <description>Recent content on dbordeR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
-    <atom:link href="https://dborder.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:5163/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Text mining: A quantitative technique as a strategy  to access reliable qualitative data</title>
-      <link>https://dborder.netlify.com/blog/2015/10/10/text-mining/</link>
+      <link>http://localhost:5163/blog/2015/10/10/text-mining/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      <guid>https://dborder.netlify.com/blog/2015/10/10/text-mining/</guid>
+      <guid>http://localhost:5163/blog/2015/10/10/text-mining/</guid>
       <description>&lt;p&gt;Given the massive information inlfux available currently in our society thanks to the use of mobile technologies. An opportunity exist to harvest data using innovative techniques that allows to get access to peoples opinions and preferences.&#xA;This is an approach taht combines quantitative analysis tools with  qualitative base theoretic frameworks.&#xA;Is definetely gaining importance, also by offering two major advantages over other metholologies to access information about peoples preferences.&lt;br&gt;&#xA;Bothe are releted to money, in differnt flavors however. one is faster work flows and second less resources invested (e.i. thinking about survey operational personel). So next time you confront  the need to access high volume of data from people, think about harvesting data from the digital world for which  text mining techniques are a powerful arsenal.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Social Determinants of health</title>
-      <link>https://dborder.netlify.com/blog/2015/10/02/sde/</link>
+      <link>http://localhost:5163/blog/2015/10/02/sde/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>https://dborder.netlify.com/blog/2015/10/02/sde/</guid>
-      <description>&lt;h3 id=&#34;esperanza-de-vida-y-condiciones-económicas-en-américa-latina-en-medio-siglo&#34;&gt;Esperanza de vida y condiciones económicas en América Latina en medio siglo.&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://dborder.netlify.com/img/p.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;diabetes-y-la-epidemida-de-padecimientos-crónicos-degenerativos-además-un-padecimiento-considerado-como-de-alto-impacto-financiero-para-el-sector-salud-mexicano-en-el-corto-plazo&#34;&gt;Diabetes y la epidemida de padecimientos crónicos degenerativos. Además un padecimiento considerado como de alto impacto financiero para el sector salud Mexicano en el corto plazo.&lt;/h3&gt;&#xA;&lt;p&gt;The evolution of type II diabetes as a death cause in Mexico increased by 76% during&#xA;the period between 1998-2013, while the over all death causes experienced a 18,3%&#xA;increase in same period. The exponential growth rate implicit by this trend reflects a&#xA;public health concern of epidemic proportions.&#xA;Although diabetes is a major public health problem in Mexico previously thought to be&#xA;related to population with relative higher income levels or affluent, recent studies had&#xA;suggested an epidemiological transition impacting individuals in lower income regions.&#xA;Studies conducted with a focus on the Mexican population suggest that this transition&#xA;may be linked to nutritional changes (Seuring, Goryakin &amp;amp; Suhrcke, 2015). Argument&#xA;that highlights the importance to consider social determinants of health such as&#xA;consumption patterns as contextual factors to understand this growing public health&#xA;treat.&#xA;Studies emphasizing behavioral determinants have established that inadequate diet is&#xA;a key risk factor for the development of T2D (Sundquist, Eriksson, Mezuk &amp;amp; Ohlsson,&#xA;2015; Wali, Thomas &amp;amp; Sutherland, 2014). According to Ortiz-Hernández (2006), a link&#xA;towards diabetes development through consumption practices finds a key path via the&#xA;metabolic energy intake balance; the path identified can be traced back to life style&#xA;habits further pressured by low price per calories processed foods available at the&#xA;neighborhood scale.&#xA;As evidence suggest, diet follow trends tied to consumption practices that differ across&#xA;demographic groups and regions (Gordon-Larsen, Guilkey and Popkin, 2011). Although&#xA;it is recognized that T2D is a multifactorial public health issue and its determinants are&#xA;not limited to consumption patterns, considering contextual factors may provide&#xA;additional insights to improve its understanding at a regional scale.&#xA;Despite the importance of geographic location to explain this epidemic, in the past&#xA;decades the study of biological risk factors has been the dominant paradigm (Graves&#xA;and Kayal, 2008; Stolar 2010). While research on environmental correlates of physical&#xA;activity such as obesity, a well-known risk factor for the development of diabetes (Day&#xA;and Baily, 2011) has been well documented in the US Mexico border communities&#xA;(Fisher-Hoch et al., 2010). There is a clear research gap relative to diabetes studies for&#xA;the Mexican southern border states and its connections to population consumption&#xA;patterns at a local level.&lt;/p&gt;</description>
+      <guid>http://localhost:5163/blog/2015/10/02/sde/</guid>
+      <description>&lt;h3 id=&#34;esperanza-de-vida-y-condiciones-económicas-en-américa-latina-en-medio-siglo&#34;&gt;Esperanza de vida y condiciones económicas en América Latina en medio siglo.&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:5163/img/p.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;diabetes-y-la-epidemida-de-padecimientos-crónicos-degenerativos-además-un-padecimiento-considerado-como-de-alto-impacto-financiero-para-el-sector-salud-mexicano-en-el-corto-plazo&#34;&gt;Diabetes y la epidemida de padecimientos crónicos degenerativos. Además un padecimiento considerado como de alto impacto financiero para el sector salud Mexicano en el corto plazo.&lt;/h3&gt;&#xA;&lt;p&gt;The evolution of type II diabetes as a death cause in Mexico increased by 76% during&#xA;the period between 1998-2013, while the over all death causes experienced a 18,3%&#xA;increase in same period. The exponential growth rate implicit by this trend reflects a&#xA;public health concern of epidemic proportions.&#xA;Although diabetes is a major public health problem in Mexico previously thought to be&#xA;related to population with relative higher income levels or affluent, recent studies had&#xA;suggested an epidemiological transition impacting individuals in lower income regions.&#xA;Studies conducted with a focus on the Mexican population suggest that this transition&#xA;may be linked to nutritional changes (Seuring, Goryakin &amp;amp; Suhrcke, 2015). Argument&#xA;that highlights the importance to consider social determinants of health such as&#xA;consumption patterns as contextual factors to understand this growing public health&#xA;treat.&#xA;Studies emphasizing behavioral determinants have established that inadequate diet is&#xA;a key risk factor for the development of T2D (Sundquist, Eriksson, Mezuk &amp;amp; Ohlsson,&#xA;2015; Wali, Thomas &amp;amp; Sutherland, 2014). According to Ortiz-Hernández (2006), a link&#xA;towards diabetes development through consumption practices finds a key path via the&#xA;metabolic energy intake balance; the path identified can be traced back to life style&#xA;habits further pressured by low price per calories processed foods available at the&#xA;neighborhood scale.&#xA;As evidence suggest, diet follow trends tied to consumption practices that differ across&#xA;demographic groups and regions (Gordon-Larsen, Guilkey and Popkin, 2011). Although&#xA;it is recognized that T2D is a multifactorial public health issue and its determinants are&#xA;not limited to consumption patterns, considering contextual factors may provide&#xA;additional insights to improve its understanding at a regional scale.&#xA;Despite the importance of geographic location to explain this epidemic, in the past&#xA;decades the study of biological risk factors has been the dominant paradigm (Graves&#xA;and Kayal, 2008; Stolar 2010). While research on environmental correlates of physical&#xA;activity such as obesity, a well-known risk factor for the development of diabetes (Day&#xA;and Baily, 2011) has been well documented in the US Mexico border communities&#xA;(Fisher-Hoch et al., 2010). There is a clear research gap relative to diabetes studies for&#xA;the Mexican southern border states and its connections to population consumption&#xA;patterns at a local level.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Internatinal Migration and Water Scarcity</title>
-      <link>https://dborder.netlify.com/blog/2015/09/17/internatinal-migration/</link>
+      <link>http://localhost:5163/blog/2015/09/17/internatinal-migration/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>https://dborder.netlify.com/blog/2015/09/17/internatinal-migration/</guid>
+      <guid>http://localhost:5163/blog/2015/09/17/internatinal-migration/</guid>
       <description>&lt;p&gt;Historically, causes of international migration have been a dominant research area on the international migration research agenda; socioeconomic determinants such as income and poverty conditions have been extensively documented as they represent common motives for the movement of people across borders around the world. However, until recently, less attention has been directed to environmental determinants of international migration. Yet, as migration patterns themselves have become more complex, the environmental dimension has been gaining attention after the recognition of the possible effects of changing climate conditions and the increasing possibility of experiencing extreme weather events (IOM, 2009).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Remote sensing images to detect landscape changes</title>
-      <link>https://dborder.netlify.com/blog/2015/08/03/remote-sense/</link>
+      <link>http://localhost:5163/blog/2015/08/03/remote-sense/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      <guid>https://dborder.netlify.com/blog/2015/08/03/remote-sense/</guid>
+      <guid>http://localhost:5163/blog/2015/08/03/remote-sense/</guid>
       <description>&lt;p&gt;Remote sensing as a reliable tool to access high quality visual data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Underground Water Use</title>
-      <link>https://dborder.netlify.com/blog/2015/06/24/undergroundwater/</link>
+      <link>http://localhost:5163/blog/2015/06/24/undergroundwater/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      <guid>https://dborder.netlify.com/blog/2015/06/24/undergroundwater/</guid>
+      <guid>http://localhost:5163/blog/2015/06/24/undergroundwater/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Just beggining to understand.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>https://dborder.netlify.com/about/</link>
+      <link>http://localhost:5163/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dborder.netlify.com/about/</guid>
+      <guid>http://localhost:5163/about/</guid>
       <description>&lt;h3 id=&#34;qué-es-dborder&#34;&gt;¿Qué es dbordeR?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;dbordeR&lt;/strong&gt; es una inciativa sin fines de lucro creada por  &lt;a href=&#34;https://www.colef.mx/posgrado/profesores/borrador-automatico-31/&#34;&gt;José Luis Manzanares Rivera&lt;/a&gt;  dedicada a la difusión de resultados de investigación aplicada con orientación al análisis de datos y pensada como una plataforma para generar redes de investigación a partir de alianzas estratégicas con investigadores de primer nivel en instituciones académicas especializadas.&lt;/p&gt;&#xA;&lt;h5 id=&#34;la-implementación-se-realiza-desde-méxico-y-se-enfoca-en-el-estudio-de-casos-con-enfasis-en-la-región-de-latinoamérica&#34;&gt;La implementación se realiza desde México y se enfoca en el estudio de casos con enfasis en la región de Latinoamérica.&lt;/h5&gt;&#xA;&lt;p&gt;La iniciativa dbordeR se compone por 2 divisiones:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://dborder.netlify.com/contact/</link>
+      <link>http://localhost:5163/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dborder.netlify.com/contact/</guid>
+      <guid>http://localhost:5163/contact/</guid>
       <description>&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;&#xA;&lt;p&gt;We like to built networks.&#xA;Let us know if there is a particular database that you may be interested in analizing.&lt;/p&gt;&#xA;&lt;p&gt;Data-analysis-insight-advance knowledge.&lt;/p&gt;&#xA;&lt;p&gt;Please feel free to contact us, our customer service center is working for you 24/7.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Podcast</title>
-      <link>https://dborder.netlify.com/podcast/</link>
+      <link>http://localhost:5163/podcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dborder.netlify.com/podcast/</guid>
+      <guid>http://localhost:5163/podcast/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;IMER.mp3&#34; alt=&#34;IMER&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>

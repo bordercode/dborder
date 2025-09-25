@@ -1,4 +1,4 @@
-baseurl = "https://dborder.netlify.com/"
+baseurl = "https://dborder.netlify.app/"
 title = "dbordeR" 
 theme = "hugo-universal-theme"
 languageCode = "en-us"

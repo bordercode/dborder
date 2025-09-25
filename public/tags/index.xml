@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on dbordeR</title>
-    <link>https://dborder.netlify.com/tags/</link>
+    <link>http://localhost:5163/tags/</link>
     <description>Recent content in Tags on dbordeR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
-    <atom:link href="https://dborder.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:5163/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
-      <link>https://dborder.netlify.com/tags/tech/</link>
+      <link>http://localhost:5163/tags/tech/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      <guid>https://dborder.netlify.com/tags/tech/</guid>
+      <guid>http://localhost:5163/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>HE</title>
-      <link>https://dborder.netlify.com/tags/he/</link>
+      <link>http://localhost:5163/tags/he/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>https://dborder.netlify.com/tags/he/</guid>
+      <guid>http://localhost:5163/tags/he/</guid>
       <description></description>
     </item>
     <item>
       <title>SE</title>
-      <link>https://dborder.netlify.com/tags/se/</link>
+      <link>http://localhost:5163/tags/se/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>https://dborder.netlify.com/tags/se/</guid>
+      <guid>http://localhost:5163/tags/se/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>https://dborder.netlify.com/tags/go/</link>
+      <link>http://localhost:5163/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>https://dborder.netlify.com/tags/go/</guid>
+      <guid>http://localhost:5163/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>DIA</title>
-      <link>https://dborder.netlify.com/tags/dia/</link>
+      <link>http://localhost:5163/tags/dia/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      <guid>https://dborder.netlify.com/tags/dia/</guid>
+      <guid>http://localhost:5163/tags/dia/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme</title>
-      <link>https://dborder.netlify.com/tags/theme/</link>
+      <link>http://localhost:5163/tags/theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      <guid>https://dborder.netlify.com/tags/theme/</guid>
+      <guid>http://localhost:5163/tags/theme/</guid>
       <description></description>
     </item>
   </channel>
