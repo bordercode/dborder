@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pseudo on dbordeR</title>
-    <link>http://localhost:4321/categories/pseudo/</link>
+    <link>https://dborder.netlify.com/categories/pseudo/</link>
     <description>Recent content in Pseudo on dbordeR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:4321/categories/pseudo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dborder.netlify.com/categories/pseudo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remote sensing images to detect landscape changes</title>
-      <link>http://localhost:4321/blog/2015/08/03/remote-sense/</link>
+      <link>https://dborder.netlify.com/blog/2015/08/03/remote-sense/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      <guid>http://localhost:4321/blog/2015/08/03/remote-sense/</guid>
+      <guid>https://dborder.netlify.com/blog/2015/08/03/remote-sense/</guid>
       <description>&lt;p&gt;Remote sensing as a reliable tool to access high quality visual data.&lt;/p&gt;</description>
     </item>
   </channel>

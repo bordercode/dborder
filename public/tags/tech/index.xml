@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on dbordeR</title>
-    <link>http://localhost:4321/tags/tech/</link>
+    <link>https://dborder.netlify.com/tags/tech/</link>
     <description>Recent content in Tech on dbordeR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dborder.netlify.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Text mining: A quantitative technique as a strategy  to access reliable qualitative data</title>
-      <link>http://localhost:4321/blog/2015/10/10/text-mining/</link>
+      <link>https://dborder.netlify.com/blog/2015/10/10/text-mining/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      <guid>http://localhost:4321/blog/2015/10/10/text-mining/</guid>
+      <guid>https://dborder.netlify.com/blog/2015/10/10/text-mining/</guid>
       <description>&lt;p&gt;Given the massive information inlfux available currently in our society thanks to the use of mobile technologies. An opportunity exist to harvest data using innovative techniques that allows to get access to peoples opinions and preferences.&#xA;This is an approach taht combines quantitative analysis tools with  qualitative base theoretic frameworks.&#xA;Is definetely gaining importance, also by offering two major advantages over other metholologies to access information about peoples preferences.&lt;br&gt;&#xA;Bothe are releted to money, in differnt flavors however. one is faster work flows and second less resources invested (e.i. thinking about survey operational personel). So next time you confront  the need to access high volume of data from people, think about harvesting data from the digital world for which  text mining techniques are a powerful arsenal.&lt;/p&gt;</description>
     </item>
   </channel>
